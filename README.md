@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=aj-pzc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
   
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aj-pzc&theme=nord&row=1&column=6&no-frame=true)](https://github.com/aj-pzc)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aj-pzc&theme=nord)](https://github.com/aj-pzc)
 </div>
 
 ---
@@ -40,7 +40,7 @@ Soy un desarrollador frontend apasionado con experiencia en la creación de inte
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aj-pzc&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=aj-pzc&show_icons=true&theme=nord" alt="Estadísticas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-pzc&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados">
 </div>
 
@@ -63,15 +63,23 @@ Soy un desarrollador frontend apasionado con experiencia en la creación de inte
 ### 🔝 Proyectos Principales
 Algunos de mis proyectos más destacados donde he aplicado mis conocimientos en desarrollo web:
 
-- **[CookbookProyect-RCA](https://aj-pzc.github.io/CookbookProyect-RCA/)** - Proyecto de React para desplegar recetas obtenidas de API. -->
-    React | Redux | Axios
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/CookbookProyect-RCA)
-- **[MusicSearch-Proyect](https://aj-pzc.github.io/MusicSearch-Proyect/)** - Proyecto de React para buscar canciones desde una Base de Datos API. -->
-    React | Axios
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/MusicSearch-Proyect)
-- **[E-commerceProyect](https://aj-pzc.github.io/E-commerceProyect/)** - UI diseñada como carcaza para un e-commerce que interactua con el usuario. -->
-    HTML | SCSS | JavaScript | Bootstrap
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/E-commerceProyect)
+- **[CookbookProyect-RCA](https://aj-pzc.github.io/CookbookProyect-RCA/)** - Proyecto de React para desplegar recetas obtenidas de API.
+  
+  React | Redux | Axios
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/CookbookProyect-RCA)
+
+- **[MusicSearch-Proyect](https://aj-pzc.github.io/MusicSearch-Proyect/)** - Proyecto de React para buscar canciones desde una Base de Datos API.
+  
+  React | Axios
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/MusicSearch-Proyect)
+
+- **[E-commerceProyect](https://aj-pzc.github.io/E-commerceProyect/)** - UI diseñada como carcaza para un e-commerce que interactua con el usuario.
+  
+  HTML | SCSS | JavaScript | Bootstrap
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/E-commerceProyect)
 
 ---
 
@@ -87,3 +95,4 @@ Algunos de mis proyectos más destacados donde he aplicado mis conocimientos en 
 <div align="center">
   <sub>Hecho por Aldo Paez</sub>
 </div>
+
