@@ -4,8 +4,10 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=aj-pzc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
-  
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aj-pzc&theme=nord)](https://github.com/aj-pzc)
+  <a href="https://github.com/aj-pzc">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-pzc&theme=nord" alt="GitHub Streak" />
+  </a>
+
 </div>
 
 ---
@@ -39,11 +41,10 @@ Soy un desarrollador frontend apasionado con experiencia en la creación de inte
 
 ## 📊 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aj-pzc&show_icons=true&theme=nord" alt="Estadísticas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-pzc&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados">
+<div align="center"> 
+  <img src="https://github-readme-stats-one.vercel.app/api?username=aj-pzc&show_icons=true&theme=nord" alt="Estadísticas">
+   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs?username=aj-pzc&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados">
 </div>
-
 ---
 
 ## 🌐 Conecta Conmigo
@@ -63,11 +64,11 @@ Soy un desarrollador frontend apasionado con experiencia en la creación de inte
 ### 🔝 Proyectos Principales
 Algunos de mis proyectos más destacados donde he aplicado mis conocimientos en desarrollo web:
 
-- **[CookbookProyect-RCA](https://aj-pzc.github.io/CookbookProyect-RCA/)** - Proyecto de React para desplegar recetas obtenidas de API.
+- **[CookbookProyect](https://aj-pzc.github.io/CookbookProyect/)** - Proyecto de React para desplegar recetas obtenidas de API.
   
   React | Redux | Axios
   
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/CookbookProyect-RCA)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aj-pzc/CookbookProyect)
 
 - **[MusicSearch-Proyect](https://aj-pzc.github.io/MusicSearch-Proyect/)** - Proyecto de React para buscar canciones desde una Base de Datos API.
   
@@ -87,7 +88,7 @@ Algunos de mis proyectos más destacados donde he aplicado mis conocimientos en 
 
 - 🤝 Colaborar en proyectos de código abierto
 - 📚 Aprender y crecer como desarrollador
-- 💼 Oportunidades para trabajar en equipos talentosos
+- 💼 Oportunidades para trabajar en equipos talentosos  
 - 🎯 Crear software que impacte positivamente
 
 ---
