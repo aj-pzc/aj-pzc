@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador frontend apasionado con experiencia en la creación de interfaces web modernas y responsivas. Actualmente estoy expandiendo mis habilidades hacia el desarrollo full-stack, aprendiendo nuevas tecnologías y mejores prácticas en la industria.
+Soy ingeniero en sistemas computacionales apasionado en la creación de interfaces web modernas y responsivas con conocimiento en desarrollo frontend . Actualmente estoy expandiendo mis habilidades hacia el desarrollo full-stack, aprendiendo nuevas tecnologías y mejores prácticas en la industria.
 
 - 🌱 **Aprendiendo:** Full-Stack Development, arquitecturas escalables y mejores prácticas de código
 - 💼 **Enfoque:** Crear aplicaciones web intuitivas y de alto rendimiento
